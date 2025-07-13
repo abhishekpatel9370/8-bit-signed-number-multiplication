@@ -48,7 +48,7 @@ Tests multiple signed/unsigned values
 
 
 
-✅ How to Use
+How to Use
 Load all .v files into Vivado, ModelSim, or any Verilog simulator.
 
 Run the testbench tb_for_sign_mult.
